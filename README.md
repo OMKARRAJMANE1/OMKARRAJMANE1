@@ -156,7 +156,7 @@ public class OmkarRajmane {
 I'm actively looking for **Full Stack Java Developer** opportunities in Pune. If you're hiring or know someone who is, let's talk!
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkar-rajmane-6509512a4">
+  <a href="https://linkedin.com/in/omkarrajmane">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
